@@ -1,0 +1,1 @@
+&'D:\APP\anaconda3\python.exe'  'D:\快捷方式\Desktop\Work\Lensi_all\Lensi\Lensi_search.py'
