@@ -1,6 +1,6 @@
 # Lensi
 
-##说明
+## 说明
 + 在main文件夹中，Lensi_init.py为初始化安装scoop和choco的脚本
 + Lensi_search.py 为360 qq scoop choco winget 的聚合搜索
 + 其余均未完成
