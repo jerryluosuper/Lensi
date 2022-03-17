@@ -1,0 +1,19 @@
+scoop bucket add main
+
+scoop bucket add extras
+ 
+scoop bucket add nonportable
+
+scoop bucket add games ‘https://gitee.com/helloCodeke/scoop-games.git’
+
+scoop bucket add java
+
+scoop bucket add versions 'https://github.com/ScoopInstaller/Versions'
+
+scoop bucket add scoopcn "https://github.com/scoopcn/scoopcn.git"
+
+scoop bucket add apps 'https://gitee.com/kkzzhizhou/scoop-apps'
+
+scoop bucket add nerd-fonts 'https://gitee.com/helloCodeke/scoop-nerd-fonts.git'
+
+scoop update

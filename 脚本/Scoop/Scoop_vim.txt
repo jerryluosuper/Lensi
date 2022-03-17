@@ -1,0 +1,9 @@
+scoop install vim
+'
+set ff=unix
+set cindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set backupdir=$TEMP
+' | out-file ~/.vimrc -enc oem -append

@@ -1,0 +1,7 @@
+Set-ExecutionPolicy RemoteSigned -scope CurrentUser;
+
+$env:SCOOP='D:\APP\Scoop'
+
+[Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
+
+iwr -useb https://gitee.com/glsnames/scoop-installer/raw/master/bin/install.ps1 | iex

@@ -1,0 +1,5 @@
+scoop install aria2
+
+scoop install sudo
+
+scoop install git

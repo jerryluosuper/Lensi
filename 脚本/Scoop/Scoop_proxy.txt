@@ -1,0 +1,13 @@
+scoop config proxy [username:password@]host:port
+
+scoop config proxy currentuser@default
+
+scoop config proxy user:password@default
+
+scoop config rm proxy
+
+# anonymous authentication to proxy.example.org on port 8080:
+scoop config proxy proxy.example.org:8080
+
+# or, with authentication:
+scoop config proxy username:password@proxy.example.org:8080

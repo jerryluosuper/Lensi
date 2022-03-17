@@ -1,0 +1,15 @@
+download：
+
+https://filehippo.com/download_geek-uninstaller/post_download/
+
+data-qa-download-url="https://dl5.filehippo.com/970/a88/349cf04cf44eeb26171a12b3c423b95ce3/geek.zip?Expires=1644536252&Signature=83f1656be07844d97bc2fd5b9090fe9aed8c5551&url=https://filehippo.com/download_geek-uninstaller/&Filename=geek.zip"
+
+https://dl5.filehippo.com/970/a88/349cf04cf44eeb26171a12b3c423b95ce3/geek.zip?Expires=1644536252&Signature=83f1656be07844d97bc2fd5b9090fe9aed8c5551&url=https://filehippo.com/download_geek-uninstaller/&Filename=geek.zip
+
+https://dl5.filehippo.com/c7c/d57/e7bb7a91aa339c9abd6297e240c250990d/Dev_C___v6.3.zip?Expires=1644540373&Signature=61558960a1bd30fe878964a16afb24f6b7b8ec1b&url=https://filehippo.com/download_bloodshed-dev-c/&Filename=Dev_C___v6.3.zip
+
+replace: amp;
+
+search:
+
+https://filehippo.com/search/?q=

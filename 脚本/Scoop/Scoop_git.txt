@@ -1,0 +1,5 @@
+git -C "D:\APP\scope\buckets\main" remote set-url origin https://ghproxy.com/https://github.com/ScoopInstaller/Main.git
+
+git -C "D:\APP\scope\buckets\extras" remote set-url origin https://ghproxy.com/https://github.com/lukesampson/scoop-extras.git
+
+git -C "D:\APP\scope\buckets\games" remote set-url origin https://ghproxy.com/https://github.com/Calinou/scoop-games.git

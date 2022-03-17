@@ -1,0 +1,40 @@
+https://pc.qq.com/search.html#!keyword=tim
+
+<a class="search-install-normal J_select_normal" href="https://webcdn.m.qq.com/spcmgr/download/TIM3.3.9.22051.exe" target="_blank" data-hottag="download.search.result-normal.23258" data-id="23258" style="display: inline;">普通下载</a>
+
+<li class="search-result-item  clearfix">
+<div class="search-logo">
+<a href="/detail/18/detail_23258.html" title="TIM">
+<img onerror="imgError(this);" src="//pc3.gtimg.com/softmgr/logo/48/23258_48_1585706547.png">
+</a>
+</div>
+<div class="search-info">
+<h3 class="clearfix">
+<a class="search-name ellipsis" href="/detail/18/detail_23258.html" title="TIM">TIM</a>
+<div class="search-flags">
+
+
+
+
+
+</div>
+</h3>
+<div class="search-desc">
+<a href="/detail/18/detail_23258.html" title="TIM">QQ办公简洁版</a>
+</div>
+</div>
+<div class="search-size">79.41MB</div>
+<div class="search-star">
+<span class="star-wrap star-mid">
+<i class="star" style="width: 66%;"></i>
+</span>
+</div>
+<div class="search-score">6.6分</div>
+<div class="search-install">
+
+<a class="search-install-fast J_qq_download" href="//pm.myapp.com/invc/xfspeed/qqsoftmgr/QQSoftDownloader_v1.1_webnew_23258@.exe" target="_blank" data-hottag="download.search.result-normal.23258" data-id="23258">高速下载</a>
+<a class="search-install-select J_select_download" href="javascript:;"><i class="sprite sprite-search-btn-select"></i></a>
+<a class="search-install-normal J_select_normal" href="https://webcdn.m.qq.com/spcmgr/download/TIM3.3.9.22051.exe" target="_blank" data-hottag="download.search.result-normal.23258" data-id="23258" style="display: none;">普通下载</a>
+
+</div>
+</li>

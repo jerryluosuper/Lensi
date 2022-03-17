@@ -1,0 +1,5 @@
+scoop config SCOOP_REPO 'https://gitee.com/glsnames/Scoop-Core'
+scoop update
+
+scoop config SCOOP_REPO 'https://gitee.com/squallliu/scoop'
+scoop update

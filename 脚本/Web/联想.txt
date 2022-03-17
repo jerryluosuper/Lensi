@@ -1,0 +1,5 @@
+https://lestore.lenovo.com/search?k=tim
+
+<img class="logo" src="https://lsw-fast.lenovo.com.cn/appstore/normal/apps/1486-2020-07-23103252-1595471572521.png" alt="">
+
+https://lestore.lenovo.com/api/webstorecontents/download/getDownloadUrl
