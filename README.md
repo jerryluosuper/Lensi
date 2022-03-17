@@ -1,5 +1,53 @@
 # Lensi
 
+##TODO
+
+Lensi
+
+Lensi-search
+更多方式
+统一格式（添加detail）
+Lensi-install
+统一安装
+Lensi-update/upgrade
+统一更新
+Lensi-uninstall
+统一卸载
+
+Scoop
+进进进一步优化（aira2配置 代理配置）
+进进进进一半优化（本地化+bug）
+
+Choco
+本地化
+bug
+
+Winget
+本地化（好像不需要）
+bug
+
+Web Windows
+hippo搜索
+联想Post
+其他网站
+
+Web Apk
+解析网站
+wsa安装
+模拟器安装
+
+Web Appimage
+hub 解析
+wsl 安装
+
+
+
+
+
+
+
+
+
 #### 介绍
 {**以下是 Gitee 平台说明，您可以替换此简介**
 Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
