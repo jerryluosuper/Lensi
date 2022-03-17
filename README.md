@@ -1,44 +1,49 @@
 # Lensi
 
-##TODO
+##说明
++ 在main文件夹中，Lensi_init.py为初始化安装scoop和choco的脚本
++ Lensi_search.py 为360 qq scoop choco winget 的聚合搜索
++ 其余均未完成
+
+## TODO
 
 Lensi
 
-Lensi-search
-更多方式
-统一格式（添加detail）
-Lensi-install
-统一安装
-Lensi-update/upgrade
-统一更新
-Lensi-uninstall
-统一卸载
+### Lensi-search
++ 更多方式
++ 统一格式（添加detail）
+### Lensi-install
++ 统一安装
+### Lensi-update/upgrade
++ 统一更新
+### Lensi-uninstall
++ 统一卸载
 
-Scoop
-进进进一步优化（aira2配置 代理配置）
-进进进进一半优化（本地化+bug）
+### Scoop
++ 进进进一步优化（aira2配置 代理配置）
++ 进进进进一半优化（本地化+bug）
 
-Choco
-本地化
-bug
+### Choco
++ 本地化
++ bug
 
-Winget
-本地化（好像不需要）
-bug
+### Winget
++ 本地化（好像不需要）
++ bug
 
-Web Windows
-hippo搜索
-联想Post
-其他网站
+### Web Windows
++ hippo搜索
++ 联想Post
++ 其他网站
 
-Web Apk
-解析网站
-wsa安装
-模拟器安装
+### Web Apk
++ 解析网站
++ wsa安装
++ 模拟器安装
 
-Web Appimage
-hub 解析
-wsl 安装
+### Web Appimage
++ hub 解析
++ wsl 安装
 
 
 
