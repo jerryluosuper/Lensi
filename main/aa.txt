@@ -1,6 +1,0 @@
-   -\|/-\ 名称                              ID                        版本    源
-----------------------------------------------------------------------------
-Blender                           9PP3C07GTVRH              Unknown msstore
-Photo Blender : Photo Editor      9P1VP6V0SKCL              Unknown msstore
-Converting Colors - Color Blender 9N8L8W5TTD6S              Unknown msstore
-Blender                           BlenderFoundation.Blender 3.1.0   winget

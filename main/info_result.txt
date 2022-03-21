@@ -1,16 +1,0 @@
-   -\|/ 已找到 幕布 [Mubu.Mubu]
-版本: 3.6.0
-发布者: mubu.com
-发布服务器 URL: https://mubu.com
-发布服务器支持 URL: https://mubu.com/help
-作者: 幕布
-描述: 幕布是一款结合了大纲笔记和思维导图的头脑管理工具,帮你用更高效的方式和更清晰的结构来记录笔记、管理任务、制定计划甚至是组织头脑风暴。
-主页: https://mubu.com/home
-许可证: Freeware
-隐私 URL: https://mubu.com/privacyPolicy
-版权所有: ©2017-2020 幕布
-版权 URL: https://mubu.com/agreement
-安装：
-  类型: exe
-  下载 URL： https://lf1-ttcdn-tos.pstatp.com/obj/mubu-assets/client/Mubu-3.6.0.exe
-  SHA256: 1449077fca34c50d7628bd2e6044a8274c23ad3da9c9c4c9a65dd876102cbf75
