@@ -1,49 +1,13 @@
 # Lensi
-
 ## 说明
-+ 在main文件夹中，Lensi_init.py为初始化安装scoop和choco的脚本
-+ Lensi_search.py 为360 qq scoop choco winget 的聚合搜索
-+ 其余均未完成
-
-## TODO
-
-Lensi
-
-### Lensi-search
-+ 更多方式
-+ 统一格式（添加detail）
-### Lensi-install
-+ 统一安装
-### Lensi-update/upgrade
-+ 统一更新
-### Lensi-uninstall
-+ 统一卸载
-
-### Scoop
-+ 进进进一步优化（aira2配置 代理配置）
-+ 进进进进一半优化（本地化+bug）
-
-### Choco
-+ 本地化
-+ bug
-
-### Winget
-+ 本地化（好像不需要）
-+ bug
-
-### Web Windows
-+ hippo搜索
-+ 联想Post
-+ 其他网站
-
-### Web Apk
-+ 解析网站
-+ wsa安装
-+ 模拟器安装
-
-### Web Appimage
-+ hub 解析
-+ wsl 安装
++ Lensi为360 qq scoop choco winget（有可能不成功）hippo的聚合搜索软件。
+##源代码说明
++ Lensi_init.py为初始化安装scoop和choco的脚本。
++ Lensi_search.py 为360 qq scoop choco winget 的聚合搜索。
++ Lensi_search写了一点点注释，可以阅读学习。
++ Lensi_all.py为所有函数。
++ Lensi_GUL.py为GUL格式。
++ Lensi_main.py为主程序，需要有Lensi_GUL和Lensi_all放在一个目录下就可以运行。
 
 
 
@@ -53,40 +17,4 @@ Lensi
 
 
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
