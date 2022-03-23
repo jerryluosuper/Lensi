@@ -2,7 +2,6 @@
 ## 说明
 ### 主程序说明
 + Lensi为360 qq scoop choco winget hippo的聚合搜索软件。
-+ 由于打包后的exe大小超过100MB，暂时不发行。
 + ![主程序](media/media%20(2).png)
 + ![搜索示例](media/media%20(3).png)
 ### 源代码说明
