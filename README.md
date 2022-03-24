@@ -3,6 +3,7 @@
 ### 主程序说明
 + Lensi GUL为360 qq scoop choco winget hippo的聚合搜索软件。
 + Lensi CLI为360 qq hippo的聚合搜索命令行工具。
++ CLI安装 `pip install Lensi==0.0.1`
 + 打包后的exe大小超过100MB，在github发行（gitee：https://gitee.com/lensit/lensi）。
 + ![主程序](media/media%20(2).png)
 + ![搜索示例](media/media%20(3).png)
