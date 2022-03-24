@@ -6,7 +6,6 @@
 + CLI安装 `pip install Lensi==0.0.1`
 + 打包后的exe大小超过100MB，在github发行（gitee：https://gitee.com/lensit/lensi）。
 + ![GUL](media/media%20(2).png)
-+ 
 ### 源代码说明
 + Lensi_init.py为初始化安装scoop和choco的脚本。
 + Lensi_search.py 为360 qq scoop choco winget 的聚合搜索。
