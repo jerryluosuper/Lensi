@@ -174,7 +174,6 @@ def GUL_search(ui):
     # print(str(result[2][5]))
     # print(str(result[3][5]))
     # print(str(result[4][5]))
-    #  print("97HE783GE")
     try:
         if str(result[4][5]) != None:
             ui.webEngineView_5.load(QUrl(str(result[4][5])))
