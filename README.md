@@ -108,4 +108,4 @@ Aria2安装地址，默认为由Scoop安装的地址
   对于携带版的软件(下载文件后缀为.zip)是否创建开始菜单快捷方式(同时创建Lensi Apps文件夹)，默认关闭
 + `TR(ToReplace)=github.com`
 + `RT(ReplaceTo)=hub.fastgit.xyz`
-  安装Scoop的软件自动讲其中的TR替换为RT，默认将github.com替换为hub.fastgit.xyz
+  安装Scoop的软件自动将其中的TR替换为RT，默认将github.com替换为hub.fastgit.xyz
